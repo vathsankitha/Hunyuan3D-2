@@ -1,5 +1,4 @@
-[中文阅读](README_zh_cn.md)
-[日本語で読む](README_ja_jp.md)
+asmeera
 
 <p align="center"> 
   <img src="./assets/images/teaser.jpg">
